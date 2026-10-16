@@ -1,0 +1,6 @@
+{
+  "name": "PKG TK Kota Sukabumi - Aplikasi Penilaian Kinerja Guru",
+  "description": "Aplikasi Penilaian Kinerja Guru (PKG) Taman Kanak-Kanak Kota Sukabumi berdasarkan Perdirjen GTK No. 2626/B/GT/2023 dan Permendikbudristek No. 40 Tahun 2021 dengan penilaian 4 kompetensi, kegiatan penunjang, penilaian 360 derajat, dan indeks kehadiran.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
